@@ -3,10 +3,10 @@ This repository contains both Manual and Automation testing assets for a sample 
 
 ## Tools Used
 
-# Manual Testing:
+### Manual Testing:
 - **Excel word**: For writing test strategy, test cases, bug report.
 
-# Automation Testing:
+### Automation Testing:
 - **Java**: Programming language
 - **Selenium WebDriver**: Browser automation tool
 - **TestNG**: Test execution and reporting framework
